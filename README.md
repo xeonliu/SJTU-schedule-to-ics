@@ -21,3 +21,7 @@ options:
   -h, --help       show this help message and exit
   --output OUTPUT  your_location/your_name.ics
 ```
+
+### External Links
+
+icsx5 (for Android): https://icsx5.bitfire.at/
