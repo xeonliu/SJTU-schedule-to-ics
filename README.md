@@ -25,3 +25,5 @@ options:
 ### External Links
 
 icsx5 (for Android): https://icsx5.bitfire.at/
+
+难蚌，pysjtu仓库里边有个export.py已经实现了该功能，自己丢人现眼了
